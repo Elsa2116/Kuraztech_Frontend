@@ -8,12 +8,12 @@ A lightweight, responsive task management app built with React and Tailwind CSS,
 
 ## 🚀 Features
 
-- ✅ Add tasks with instant validation  
-- ✅ Mark tasks as complete/incomplete  
-- ✅ Delete tasks with one click  
-- ✅ Persistent local storage (auto-saves tasks)  
-- ✅ Clean, modern UI with responsive design  
-- ✅ Keyboard-friendly navigation  
+ ✅ Add tasks with instant validation  
+ ✅ Mark tasks as complete/incomplete  
+ ✅ Delete tasks with one click  
+ ✅ Persistent local storage (auto-saves tasks)  
+ ✅ Clean, modern UI with responsive design  
+ ✅ Keyboard-friendly navigation  
 
 
 ## 📅 Project Info
