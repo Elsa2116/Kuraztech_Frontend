@@ -8,11 +8,11 @@ Features
 
 Add tasks with instant validation
 
-Mark tasks as complete/incomplete
-Delete tasks with one click
-Persistent storage (saves automatically to browser)
-Clean UI with responsive design
-Keyboard-friendly navigation
+-Mark tasks as complete/incomplete
+-Delete tasks with one click
+-Persistent storage (saves automatically to browser)
+-Clean UI with responsive design
+-Keyboard-friendly navigation
 
 
 > Note: This project was built as part of the Kurazteck Company Screening Test, held on june 5,2025.
