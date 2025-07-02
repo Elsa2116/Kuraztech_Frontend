@@ -21,7 +21,7 @@ A lightweight, responsive task management app built with React and Tailwind CSS,
 > Note: This project was built as part of the Kurazteck Company Screening Test, held on June 5, 2025.
 
 
-🛠 Technologies Used
+ Technologies Used
 
 React
 
